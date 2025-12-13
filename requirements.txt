@@ -1,0 +1,3 @@
+assemblyai>=0.33.0
+python-dotenv
+pyaudio
